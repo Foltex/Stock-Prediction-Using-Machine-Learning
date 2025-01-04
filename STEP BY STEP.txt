@@ -1,0 +1,7 @@
+STEP BY STEP TO RUN THE APP
+1. Download 'AI Revise' Folder
+
+NOTE : DON'T FORGET TO INSTALL THE REQUIREMENTS IN requirements.txt
+2. Open folder 'AI Revise' in Vscode
+3. go to the 'app.py' , press 'crtl + `' to run cmd in vscode and type 'python app.py' to run the code
+4. click the ip address that will appear in the cmd and you will be direct to the web
